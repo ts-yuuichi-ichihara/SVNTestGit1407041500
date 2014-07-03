@@ -2,6 +2,7 @@ package com.example.testandroid;
 
 import android.os.Bundle;
 import android.app.Activity;
+import android.util.Log;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
@@ -13,6 +14,8 @@ public class MainActivity extends Activity {
 
 		//
 		//
+		
+		Log.e("", "log");
 	}
 
 	@Override
