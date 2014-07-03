@@ -15,7 +15,11 @@ public class MainActivity extends Activity {
 		//
 		//
 		
+		
+		
+		Log.d("", "log");
 		Log.e("", "log");
+		Log.v("", "log");
 	}
 
 	@Override
